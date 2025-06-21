@@ -51,7 +51,7 @@ src/
 
 ```bash
 git clone https://github.com/Himanshusinghjeena/E-ComReactJs-main.git
-cd E-ComReactJs-main
+
 ```
 
 ### 2. Install dependencies
