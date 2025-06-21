@@ -66,7 +66,7 @@ npm install
 npm start
 ```
 
-The app will run at [http://localhost:3000](https://e-comreactjs.onrender.com).
+The app will run at [https://e-comreactjs.onrender.com]
 
 ---
 
